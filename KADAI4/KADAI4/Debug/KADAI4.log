@@ -1,0 +1,5 @@
+﻿  KADAI4.cpp
+d:\student\desktop\kadai4\kadai4\kadai4.cpp(15): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\student\desktop\kadai4\kadai4\kadai4.cpp(17): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\student\desktop\kadai4\kadai4\kadai4.cpp(19): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+  KADAI4.vcxproj -> D:\student\Desktop\KADAI4\Debug\KADAI4.exe

@@ -1,0 +1,7 @@
+D:\student\Desktop\KADAI02\KADAI02\bin\Debug\KADAI02.exe.config
+D:\student\Desktop\KADAI02\KADAI02\bin\Debug\KADAI02.exe
+D:\student\Desktop\KADAI02\KADAI02\bin\Debug\KADAI02.pdb
+D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.csprojAssemblyReference.cache
+D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.csproj.CoreCompileInputs.cache
+D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.exe
+D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.pdb
